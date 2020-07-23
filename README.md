@@ -1,0 +1,2 @@
+# PrediccionSalariosStreamlitML
+Ha sido proporcionado un conjunto de datos de salarios que tiene 15 columnas y 48842 filas. Nuestra tarea es analizar el conjunto de datos y predecir si el ingreso de un adulto excederá de 50k ($USD 50.000) por año o no mediante el desarrollo de un modelo supervisado de aprendizaje automático (Machine Learning). Para lo cuál se ha considerado 3 modelos de Machine Learning los cuáles son: Logistic Regression, Naive Bayes y Random Forest.  UCI: Base de Datos  Teoria: Logistic Regression, Naive Bayes y Random Forest
